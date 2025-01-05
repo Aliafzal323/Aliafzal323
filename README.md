@@ -1,5 +1,5 @@
 <h1>Hello World</h1>
-<h6>Hi, I'm Ali Afzal, a Mobile App developer from Pakistan, also dabbling a bit in dart, android and flutter. Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas.</h6>
+<p>Hi, I'm Ali Afzal, a Mobile App developer from Pakistan, also dabbling a bit in dart, android and flutter. Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas.</p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliafzal323&label=Profile%20views&color=0e75b6&style=flat" alt="aliafzal323" /> </p>
 
